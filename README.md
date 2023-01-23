@@ -63,6 +63,13 @@ def max_marks(list1):
 1)
 ![max3](https://user-images.githubusercontent.com/118447015/214095214-8bf66f52-080a-45db-acee-d4aaaa85d4a1.png)
 
+2)
+![max3](https://user-images.githubusercontent.com/118447015/214095405-ea54bbbe-e91f-4512-8481-25e392c944ae.png)
+
+3)
+
+
+![max3](https://user-images.githubusercontent.com/118447015/214095490-f9120e68-e2a1-4813-86f2-a6825d3acd29.png)
 
 
 
